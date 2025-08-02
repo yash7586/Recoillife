@@ -660,7 +660,6 @@ body {
   background: white;
   border-radius: 20px;
   padding: 20px;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
   border: 4px solid #000;
   animation: funky-border 6s infinite ease-in-out;
 }
