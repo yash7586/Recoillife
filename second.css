@@ -590,22 +590,7 @@ body {
   background-color: #333;
 }
 
-.speed-control {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
 
-.speed-control label {
-  font-weight: bold;
-}
-
-#speedSelect {
-  padding: 8px 12px;
-  font-size: 1rem;
-  border-radius: 6px;
-  border: 1px solid #aaa;
-}
 
 /* SUMMARY SECTION */
 .summary {
@@ -710,22 +695,7 @@ body {
   background-color: #333;
 }
 
-.speed-control {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
 
-.speed-control label {
-  font-weight: bold;
-}
-
-#speedSelect {
-  padding: 8px 12px;
-  font-size: 1rem;
-  border-radius: 6px;
-  border: 1px solid #aaa;
-}
 
 /* SUMMARY SECTION */
 .summary {
